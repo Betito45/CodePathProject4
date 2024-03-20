@@ -4,7 +4,7 @@
 
 Submitted by: **Alberto Doroteo-Reyes**
 
-Time spent: **X** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Summary
 
